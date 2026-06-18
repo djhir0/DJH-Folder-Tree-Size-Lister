@@ -39,3 +39,5 @@ C:\Projects [Total: 6 MB]
 ✔ Fast readable disk analysis
 
 DJH Folder Tree Size Lister is a lightweight Windows batch utility for recursive folder scanning and disk usage analysis. It generates structured tree-style reports showing file and folder sizes with total storage calculation. Designed for fast offline directory inspection, storage tracking, and Windows automation workflows. Built by DJH for developers and system users.
+
+more info @ https://djh.ir/djh-folder-tree-size-lister
